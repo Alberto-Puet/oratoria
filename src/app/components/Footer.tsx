@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react'
-import { Facebook, Instagram, Mail, Phone } from 'lucide-react'
+import { Mail, Phone } from 'lucide-react'
 import { FaInstagram, FaLinkedin } from 'react-icons/fa'
 
 export default function Footer() {
